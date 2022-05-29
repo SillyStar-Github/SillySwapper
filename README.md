@@ -20,7 +20,7 @@ After that, you will be asked for the icon you want to swap it with. This will b
 ![image](https://user-images.githubusercontent.com/90102598/170876494-640a3c15-85ab-4fa5-bc47-28d49f6432d4.png)
 
 Now, the script will run itself, and a new file will be created next to the script file.
-![image](https://user-images.githubusercontent.com/90102598/170876585-13c14cf0-d5e8-43b3-85da-e7b25e2611aa.png)
+![image](https://user-images.githubusercontent.com/90102598/170876898-4d5845f5-da2f-4bbc-9942-94ca3b5eecf3.png)
 
 Just put this file in the GD Lite app directory where the icon folder is. The icons should be swapped!
 
