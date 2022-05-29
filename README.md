@@ -8,6 +8,7 @@ A basic ass script that just swaps the icon you choose for another icon you choo
 Download the zip file in Releases, extract it all into one folder, and run the IconSwapper.py file.
 
 When you open it, you'll first be prompted with a list of icon types. Just enter the number matching to the icon type you want to swap.
+
 ![image](https://user-images.githubusercontent.com/90102598/170876022-a25e4f02-810b-447b-acfd-db6d9139641b.png)
 
 After you type in the number, choose the quality type. Self explanatory.
